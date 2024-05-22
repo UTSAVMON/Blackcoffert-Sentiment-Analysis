@@ -1,2 +1,2 @@
 # Blackcoffert-Sentiment-Analysis
-NIL
+Webscrapped multiple Blackcoffert websites and performed a sentiment analysis on it.
